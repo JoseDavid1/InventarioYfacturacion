@@ -1,0 +1,13 @@
+c:\users\davis\documents\visual studio 2015\Projects\MDIPrueba\MDIPrueba\bin\Debug\MDIPrueba.exe.config
+c:\users\davis\documents\visual studio 2015\Projects\MDIPrueba\MDIPrueba\bin\Debug\MDIPrueba.exe
+c:\users\davis\documents\visual studio 2015\Projects\MDIPrueba\MDIPrueba\bin\Debug\MDIPrueba.pdb
+c:\users\davis\documents\visual studio 2015\Projects\MDIPrueba\MDIPrueba\obj\Debug\MDIPrueba.csprojResolveAssemblyReference.cache
+c:\users\davis\documents\visual studio 2015\Projects\MDIPrueba\MDIPrueba\obj\Debug\MDIPrueba.Properties.Resources.resources
+c:\users\davis\documents\visual studio 2015\Projects\MDIPrueba\MDIPrueba\obj\Debug\MDIPrueba.csproj.GenerateResource.Cache
+c:\users\davis\documents\visual studio 2015\Projects\MDIPrueba\MDIPrueba\obj\Debug\MDIPrueba.exe
+c:\users\davis\documents\visual studio 2015\Projects\MDIPrueba\MDIPrueba\obj\Debug\MDIPrueba.pdb
+c:\users\davis\documents\visual studio 2015\Projects\MDIPrueba\MDIPrueba\obj\Debug\MDIPrueba.MDI.resources
+c:\users\davis\documents\visual studio 2015\Projects\MDIPrueba\MDIPrueba\obj\Debug\MDIPrueba.Form2.resources
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIPrueba\MDIPrueba\bin\Debug\MDIPrueba.exe.config
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIPrueba\MDIPrueba\obj\Debug\MDIPrueba.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIPrueba\MDIPrueba\obj\Debug\MDIPrueba.pdb
