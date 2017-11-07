@@ -30,40 +30,42 @@
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.hotelería1000ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.inventarioYFacturación2000ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.nóminas3000ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.contabilidad4000ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.bancos5000ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.cxCCxPComprasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.transaccionalToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.transaccionalToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.reportesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.procesosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.enlaceConContabilidadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.inventarioYFacturación2000ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.catálogoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.transaccionalToolStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
             this.reportesToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.procesosToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.enlaceConContabilidadToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.nóminas3000ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.catálogosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.transaccionalesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.reportesToolStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
             this.procesosToolStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
+            this.contabilidad4000ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.catálogosToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.transaccionalesToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.reportesToolStripMenuItem3 = new System.Windows.Forms.ToolStripMenuItem();
             this.procesosToolStripMenuItem3 = new System.Windows.Forms.ToolStripMenuItem();
             this.enlaceConContabilidadToolStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
+            this.bancos5000ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.catálogosToolStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
             this.transaccionalToolStripMenuItem3 = new System.Windows.Forms.ToolStripMenuItem();
+            this.reportesToolStripMenuItem5 = new System.Windows.Forms.ToolStripMenuItem();
+            this.procesosToolStripMenuItem5 = new System.Windows.Forms.ToolStripMenuItem();
+            this.enlaceConContabilidadToolStripMenuItem3 = new System.Windows.Forms.ToolStripMenuItem();
+            this.cxCCxPComprasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.catálogosToolStripMenuItem3 = new System.Windows.Forms.ToolStripMenuItem();
             this.transaccionalesToolStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
             this.reportesToolStripMenuItem4 = new System.Windows.Forms.ToolStripMenuItem();
             this.procesosToolStripMenuItem4 = new System.Windows.Forms.ToolStripMenuItem();
-            this.reportesToolStripMenuItem5 = new System.Windows.Forms.ToolStripMenuItem();
-            this.procesosToolStripMenuItem5 = new System.Windows.Forms.ToolStripMenuItem();
-            this.enlaceConContabilidadToolStripMenuItem3 = new System.Windows.Forms.ToolStripMenuItem();
             this.enlaceConContabilidadToolStripMenuItem4 = new System.Windows.Forms.ToolStripMenuItem();
+            this.entradasYSalidaInventarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.trasladoEntreBodegasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -92,61 +94,6 @@
             this.hotelería1000ToolStripMenuItem.Name = "hotelería1000ToolStripMenuItem";
             this.hotelería1000ToolStripMenuItem.Size = new System.Drawing.Size(102, 20);
             this.hotelería1000ToolStripMenuItem.Text = "Hotelería (1000)";
-            // 
-            // inventarioYFacturación2000ToolStripMenuItem
-            // 
-            this.inventarioYFacturación2000ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.catálogoToolStripMenuItem,
-            this.transaccionalToolStripMenuItem2,
-            this.reportesToolStripMenuItem1,
-            this.procesosToolStripMenuItem1});
-            this.inventarioYFacturación2000ToolStripMenuItem.Name = "inventarioYFacturación2000ToolStripMenuItem";
-            this.inventarioYFacturación2000ToolStripMenuItem.Size = new System.Drawing.Size(181, 20);
-            this.inventarioYFacturación2000ToolStripMenuItem.Text = "Inventario y Facturación (2000)";
-            // 
-            // nóminas3000ToolStripMenuItem
-            // 
-            this.nóminas3000ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.catálogosToolStripMenuItem,
-            this.transaccionalesToolStripMenuItem,
-            this.reportesToolStripMenuItem2,
-            this.procesosToolStripMenuItem2});
-            this.nóminas3000ToolStripMenuItem.Name = "nóminas3000ToolStripMenuItem";
-            this.nóminas3000ToolStripMenuItem.Size = new System.Drawing.Size(102, 20);
-            this.nóminas3000ToolStripMenuItem.Text = "Nóminas (3000)";
-            // 
-            // contabilidad4000ToolStripMenuItem
-            // 
-            this.contabilidad4000ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.catálogosToolStripMenuItem1,
-            this.transaccionalesToolStripMenuItem1,
-            this.reportesToolStripMenuItem3,
-            this.procesosToolStripMenuItem3});
-            this.contabilidad4000ToolStripMenuItem.Name = "contabilidad4000ToolStripMenuItem";
-            this.contabilidad4000ToolStripMenuItem.Size = new System.Drawing.Size(122, 20);
-            this.contabilidad4000ToolStripMenuItem.Text = "Contabilidad (4000)";
-            // 
-            // bancos5000ToolStripMenuItem
-            // 
-            this.bancos5000ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.catálogosToolStripMenuItem2,
-            this.transaccionalToolStripMenuItem3,
-            this.reportesToolStripMenuItem5,
-            this.procesosToolStripMenuItem5});
-            this.bancos5000ToolStripMenuItem.Name = "bancos5000ToolStripMenuItem";
-            this.bancos5000ToolStripMenuItem.Size = new System.Drawing.Size(92, 20);
-            this.bancos5000ToolStripMenuItem.Text = "Bancos (5000)";
-            // 
-            // cxCCxPComprasToolStripMenuItem
-            // 
-            this.cxCCxPComprasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.catálogosToolStripMenuItem3,
-            this.transaccionalesToolStripMenuItem2,
-            this.reportesToolStripMenuItem4,
-            this.procesosToolStripMenuItem4});
-            this.cxCCxPComprasToolStripMenuItem.Name = "cxCCxPComprasToolStripMenuItem";
-            this.cxCCxPComprasToolStripMenuItem.Size = new System.Drawing.Size(120, 20);
-            this.cxCCxPComprasToolStripMenuItem.Text = "CxC, CxP, Compras";
             // 
             // transaccionalToolStripMenuItem
             // 
@@ -181,6 +128,17 @@
             this.enlaceConContabilidadToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
             this.enlaceConContabilidadToolStripMenuItem.Text = "Enlace con Contabilidad";
             // 
+            // inventarioYFacturación2000ToolStripMenuItem
+            // 
+            this.inventarioYFacturación2000ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.catálogoToolStripMenuItem,
+            this.transaccionalToolStripMenuItem2,
+            this.reportesToolStripMenuItem1,
+            this.procesosToolStripMenuItem1});
+            this.inventarioYFacturación2000ToolStripMenuItem.Name = "inventarioYFacturación2000ToolStripMenuItem";
+            this.inventarioYFacturación2000ToolStripMenuItem.Size = new System.Drawing.Size(181, 20);
+            this.inventarioYFacturación2000ToolStripMenuItem.Text = "Inventario y Facturación (2000)";
+            // 
             // catálogoToolStripMenuItem
             // 
             this.catálogoToolStripMenuItem.Name = "catálogoToolStripMenuItem";
@@ -189,6 +147,9 @@
             // 
             // transaccionalToolStripMenuItem2
             // 
+            this.transaccionalToolStripMenuItem2.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.entradasYSalidaInventarioToolStripMenuItem,
+            this.trasladoEntreBodegasToolStripMenuItem});
             this.transaccionalToolStripMenuItem2.Name = "transaccionalToolStripMenuItem2";
             this.transaccionalToolStripMenuItem2.Size = new System.Drawing.Size(157, 22);
             this.transaccionalToolStripMenuItem2.Text = "Transaccionales";
@@ -213,6 +174,17 @@
             this.enlaceConContabilidadToolStripMenuItem1.Size = new System.Drawing.Size(202, 22);
             this.enlaceConContabilidadToolStripMenuItem1.Text = "Enlace con Contabilidad";
             // 
+            // nóminas3000ToolStripMenuItem
+            // 
+            this.nóminas3000ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.catálogosToolStripMenuItem,
+            this.transaccionalesToolStripMenuItem,
+            this.reportesToolStripMenuItem2,
+            this.procesosToolStripMenuItem2});
+            this.nóminas3000ToolStripMenuItem.Name = "nóminas3000ToolStripMenuItem";
+            this.nóminas3000ToolStripMenuItem.Size = new System.Drawing.Size(102, 20);
+            this.nóminas3000ToolStripMenuItem.Text = "Nóminas (3000)";
+            // 
             // catálogosToolStripMenuItem
             // 
             this.catálogosToolStripMenuItem.Name = "catálogosToolStripMenuItem";
@@ -236,6 +208,17 @@
             this.procesosToolStripMenuItem2.Name = "procesosToolStripMenuItem2";
             this.procesosToolStripMenuItem2.Size = new System.Drawing.Size(157, 22);
             this.procesosToolStripMenuItem2.Text = "Procesos";
+            // 
+            // contabilidad4000ToolStripMenuItem
+            // 
+            this.contabilidad4000ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.catálogosToolStripMenuItem1,
+            this.transaccionalesToolStripMenuItem1,
+            this.reportesToolStripMenuItem3,
+            this.procesosToolStripMenuItem3});
+            this.contabilidad4000ToolStripMenuItem.Name = "contabilidad4000ToolStripMenuItem";
+            this.contabilidad4000ToolStripMenuItem.Size = new System.Drawing.Size(122, 20);
+            this.contabilidad4000ToolStripMenuItem.Text = "Contabilidad (4000)";
             // 
             // catálogosToolStripMenuItem1
             // 
@@ -269,6 +252,17 @@
             this.enlaceConContabilidadToolStripMenuItem2.Size = new System.Drawing.Size(202, 22);
             this.enlaceConContabilidadToolStripMenuItem2.Text = "Enlace con Contabilidad";
             // 
+            // bancos5000ToolStripMenuItem
+            // 
+            this.bancos5000ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.catálogosToolStripMenuItem2,
+            this.transaccionalToolStripMenuItem3,
+            this.reportesToolStripMenuItem5,
+            this.procesosToolStripMenuItem5});
+            this.bancos5000ToolStripMenuItem.Name = "bancos5000ToolStripMenuItem";
+            this.bancos5000ToolStripMenuItem.Size = new System.Drawing.Size(92, 20);
+            this.bancos5000ToolStripMenuItem.Text = "Bancos (5000)";
+            // 
             // catálogosToolStripMenuItem2
             // 
             this.catálogosToolStripMenuItem2.Name = "catálogosToolStripMenuItem2";
@@ -280,6 +274,37 @@
             this.transaccionalToolStripMenuItem3.Name = "transaccionalToolStripMenuItem3";
             this.transaccionalToolStripMenuItem3.Size = new System.Drawing.Size(157, 22);
             this.transaccionalToolStripMenuItem3.Text = "Transaccionales";
+            // 
+            // reportesToolStripMenuItem5
+            // 
+            this.reportesToolStripMenuItem5.Name = "reportesToolStripMenuItem5";
+            this.reportesToolStripMenuItem5.Size = new System.Drawing.Size(157, 22);
+            this.reportesToolStripMenuItem5.Text = "Reportes";
+            // 
+            // procesosToolStripMenuItem5
+            // 
+            this.procesosToolStripMenuItem5.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.enlaceConContabilidadToolStripMenuItem3});
+            this.procesosToolStripMenuItem5.Name = "procesosToolStripMenuItem5";
+            this.procesosToolStripMenuItem5.Size = new System.Drawing.Size(157, 22);
+            this.procesosToolStripMenuItem5.Text = "Procesos";
+            // 
+            // enlaceConContabilidadToolStripMenuItem3
+            // 
+            this.enlaceConContabilidadToolStripMenuItem3.Name = "enlaceConContabilidadToolStripMenuItem3";
+            this.enlaceConContabilidadToolStripMenuItem3.Size = new System.Drawing.Size(202, 22);
+            this.enlaceConContabilidadToolStripMenuItem3.Text = "Enlace con Contabilidad";
+            // 
+            // cxCCxPComprasToolStripMenuItem
+            // 
+            this.cxCCxPComprasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.catálogosToolStripMenuItem3,
+            this.transaccionalesToolStripMenuItem2,
+            this.reportesToolStripMenuItem4,
+            this.procesosToolStripMenuItem4});
+            this.cxCCxPComprasToolStripMenuItem.Name = "cxCCxPComprasToolStripMenuItem";
+            this.cxCCxPComprasToolStripMenuItem.Size = new System.Drawing.Size(120, 20);
+            this.cxCCxPComprasToolStripMenuItem.Text = "CxC, CxP, Compras";
             // 
             // catálogosToolStripMenuItem3
             // 
@@ -307,31 +332,23 @@
             this.procesosToolStripMenuItem4.Size = new System.Drawing.Size(157, 22);
             this.procesosToolStripMenuItem4.Text = "Procesos";
             // 
-            // reportesToolStripMenuItem5
-            // 
-            this.reportesToolStripMenuItem5.Name = "reportesToolStripMenuItem5";
-            this.reportesToolStripMenuItem5.Size = new System.Drawing.Size(157, 22);
-            this.reportesToolStripMenuItem5.Text = "Reportes";
-            // 
-            // procesosToolStripMenuItem5
-            // 
-            this.procesosToolStripMenuItem5.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.enlaceConContabilidadToolStripMenuItem3});
-            this.procesosToolStripMenuItem5.Name = "procesosToolStripMenuItem5";
-            this.procesosToolStripMenuItem5.Size = new System.Drawing.Size(157, 22);
-            this.procesosToolStripMenuItem5.Text = "Procesos";
-            // 
-            // enlaceConContabilidadToolStripMenuItem3
-            // 
-            this.enlaceConContabilidadToolStripMenuItem3.Name = "enlaceConContabilidadToolStripMenuItem3";
-            this.enlaceConContabilidadToolStripMenuItem3.Size = new System.Drawing.Size(202, 22);
-            this.enlaceConContabilidadToolStripMenuItem3.Text = "Enlace con Contabilidad";
-            // 
             // enlaceConContabilidadToolStripMenuItem4
             // 
             this.enlaceConContabilidadToolStripMenuItem4.Name = "enlaceConContabilidadToolStripMenuItem4";
             this.enlaceConContabilidadToolStripMenuItem4.Size = new System.Drawing.Size(202, 22);
             this.enlaceConContabilidadToolStripMenuItem4.Text = "Enlace con Contabilidad";
+            // 
+            // entradasYSalidaInventarioToolStripMenuItem
+            // 
+            this.entradasYSalidaInventarioToolStripMenuItem.Name = "entradasYSalidaInventarioToolStripMenuItem";
+            this.entradasYSalidaInventarioToolStripMenuItem.Size = new System.Drawing.Size(218, 22);
+            this.entradasYSalidaInventarioToolStripMenuItem.Text = "Entradas y Salida Inventario";
+            // 
+            // trasladoEntreBodegasToolStripMenuItem
+            // 
+            this.trasladoEntreBodegasToolStripMenuItem.Name = "trasladoEntreBodegasToolStripMenuItem";
+            this.trasladoEntreBodegasToolStripMenuItem.Size = new System.Drawing.Size(218, 22);
+            this.trasladoEntreBodegasToolStripMenuItem.Text = "Traslado entre Bodegas";
             // 
             // MDI
             // 
@@ -388,6 +405,8 @@
         private System.Windows.Forms.ToolStripMenuItem reportesToolStripMenuItem4;
         private System.Windows.Forms.ToolStripMenuItem procesosToolStripMenuItem4;
         private System.Windows.Forms.ToolStripMenuItem enlaceConContabilidadToolStripMenuItem4;
+        private System.Windows.Forms.ToolStripMenuItem entradasYSalidaInventarioToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem trasladoEntreBodegasToolStripMenuItem;
     }
 }
 
